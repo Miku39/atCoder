@@ -1,1 +1,3 @@
 # atCoder
+
+for Java training
