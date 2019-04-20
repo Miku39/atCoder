@@ -1,0 +1,5 @@
+/ignore
+/kawaCoder
+.vscode/
+.DS_Store
+*.class
